@@ -26,5 +26,6 @@ encryption algorithm with double the key size and S-boxes size.
 
 You can always contact me at devel[at]antoine[dot]catton[dot]fr or ping me on
 twitter [@Antoine_Catton](https://twitter.com/Antoine_Catton).
+(DO NOT contact me for surveys)
 
 *If you are a recruiter, you can contact me over [linkedin](https://linkedin.com/in/acatton)*
