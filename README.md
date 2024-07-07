@@ -1,7 +1,6 @@
 Hi! I'm [Antoine Catton](https://antoine.catton.fr/) (pronounced in english
 *Ant-waan Kei-ton*). I'm currently a Google Employee, Site Reliability
-Engineer, Software Engineer, System Engineer and ex-VP of Technology at
-InfluencerDB.
+Engineer, Software Engineer, System Engineer.
 
 This is my github profile, but that's not where all my projects are. Some of my projects are also hosted on:
 
